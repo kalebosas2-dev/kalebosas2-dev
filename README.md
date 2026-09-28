@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaleb
 
-<!--
-**kalebosas2-dev/kalebosas2-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer building practical projects with web technologies, APIs, and automation.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌊 Stellar Wave Assistant
+A Telegram-based developer assistant for discovering Stellar Wave issues and preparing contributor applications.
+
+**Tech:** Node.js • Telegraf • Axios • GitHub API • Drips API • Railway
+
+**Features:**
+- 🔎 Stellar Wave issue discovery
+- 🎯 Issue filtering and search
+- 📖 Issue details
+- ✍️ Tailored application drafts
+- 🔍 Application review
+- 📋 Copy-ready applications
+- ☁️ Cloud deployment
+
+🔒 Source code is maintained in a private repository.
+
+---
+
+### 🌐 Student Profile Website
+
+A responsive student information website built with HTML and CSS.
+
+**Tech:** HTML • CSS
+
+🔗 [View Project](https://github.com/kalebosas2-dev/student-profile-website)
+
+---
+
+### 🎓 Student Webpage 2
+
+A second student webpage project with a different visual design and responsive layout.
+
+**Tech:** HTML • CSS
+
+🔗 [View Project](https://github.com/kalebosas2-dev/Student-webpage-2)
+
+---
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git & GitHub
+- REST APIs
+- Telegram Bots
+- Railway
+
+## 📚 Currently Learning
+
+- Backend development
+- API integration
+- Automation
+- Cloud deployment
+- Building real-world applications
+
+## 📫 Connect With Me
+
+GitHub: [@kalebosas2-dev](https://github.com/kalebosas2-dev)
