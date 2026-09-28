@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Kaleb
 
-I'm a developer building practical projects with web technologies, APIs, and automation.
+I'm a developer who enjoys building practical projects with web technologies, APIs, automation, and cloud services.
 
 ## 🚀 Featured Projects
 
 ### 🌊 Stellar Wave Assistant
-A Telegram-based developer assistant for discovering Stellar Wave issues and preparing contributor applications.
 
-**Tech:** Node.js • Telegraf • Axios • GitHub API • Drips API • Railway
+A Telegram-based developer assistant that helps contributors discover Stellar Wave issues and prepare tailored application drafts.
+
+**Built with:** Node.js • Telegraf • Axios • GitHub API • Drips API • Railway
 
 **Features:**
-- 🔎 Stellar Wave issue discovery
-- 🎯 Issue filtering and search
+- 🔎 Issue discovery
+- 🎯 Smart issue filtering
 - 📖 Issue details
-- ✍️ Tailored application drafts
+- ✍️ Application draft generation
 - 🔍 Application review
 - 📋 Copy-ready applications
 - ☁️ Cloud deployment
@@ -26,7 +27,7 @@ A Telegram-based developer assistant for discovering Stellar Wave issues and pre
 
 A responsive student information website built with HTML and CSS.
 
-**Tech:** HTML • CSS
+**Built with:** HTML • CSS
 
 🔗 [View Project](https://github.com/kalebosas2-dev/student-profile-website)
 
@@ -34,15 +35,15 @@ A responsive student information website built with HTML and CSS.
 
 ### 🎓 Student Webpage 2
 
-A second student webpage project with a different visual design and responsive layout.
+A second student webpage project featuring a different visual design and responsive layout.
 
-**Tech:** HTML • CSS
+**Built with:** HTML • CSS
 
 🔗 [View Project](https://github.com/kalebosas2-dev/Student-webpage-2)
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 - HTML
 - CSS
@@ -51,16 +52,20 @@ A second student webpage project with a different visual design and responsive l
 - Git & GitHub
 - REST APIs
 - Telegram Bots
-- Railway
+- Cloud Deployment
 
 ## 📚 Currently Learning
 
-- Backend development
-- API integration
+- Backend Development
+- API Integration
 - Automation
-- Cloud deployment
-- Building real-world applications
+- Cloud Deployment
+- Building Real-World Applications
 
-## 📫 Connect With Me
+## 🎯 Goals
 
-GitHub: [@kalebosas2-dev](https://github.com/kalebosas2-dev)
+Build useful software, contribute to open-source projects, and continue improving my development skills.
+
+---
+
+⭐ Thanks for visiting my profile!
